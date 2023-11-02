@@ -1,0 +1,10 @@
+::Exported Types (by stable hash)::
+0x2d6324ec1523c9e0 -    3270498350786660832 - Unity.Entities.Simulate
+0xc4deb9937d7f37b0 -   14185979919380461488 - HelloCube.Execute.GameObjectSync
+0xd7c0f5b0ee0a8dee -   15546696053939670510 - HelloCube.RotationSpeed
+0xc73e8a829c87fcf6 -   14357064955680259318 - Unity.Scenes.SceneBoundingVolume
+0x97490261b3c2de08 -   10901246991677971976 - Unity.Transforms.LocalToWorld
+0x5c5d60f217e41458 -    6655582417222636632 - Unity.Transforms.LocalTransform
+0x02333773b807e90d -     158531382036392205 - Unity.Transforms.PostTransformMatrix
+0xa466b7c9c19e31f1 -   11846357947009348081 - Unity.Entities.SceneSection
+0x5783a4e9f8ff0dbb -    6306065228060626363 - Unity.Entities.SystemInstance

@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/HelloCube/8. GameObjectSync/HelloCube_GameObjectSync.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
